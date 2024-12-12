@@ -7,6 +7,12 @@
 git clone https://github.com/JonathanMiz/first-rag-tutorial.git
 ```
 
+## Create a virtual environment
+
+```bash
+python3 -m venv .venv
+```
+
 ## Activate virtual environment
 
 ```bash
