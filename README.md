@@ -47,4 +47,4 @@ python3 main.py
 
 ## Watch the full step-by-step tutorial
 
-[![Watch the tutorial](https://img.youtube.com/vi/dNIQgDVDt1k/maxresdefault.jpg)](https://youtu.be/dNIQgDVDt1k)
+[![Watch the tutorial](https://img.youtube.com/vi/RGEJhcWdXR4/maxresdefault.jpg)](https://youtu.be/RGEJhcWdXR4)
