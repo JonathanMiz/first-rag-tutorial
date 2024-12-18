@@ -5,6 +5,7 @@
 
 ```bash
 git clone https://github.com/JonathanMiz/first-rag-tutorial.git
+cd first-rag-tutorial
 ```
 
 ## Create a virtual environment
